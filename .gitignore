@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+
+# Logs & Reports
+*.log
+16kb_compatibility_test.log
+16kb_compatibility_report.txt
+
+# APKs / build artifacts
+*.apk
+*.aab
+test_apk/
+
+# IDE / editor
+.vscode/
+.idea/
+*.iml
+
+# Python virtualenvs (if any)
+.venv/
+venv/
